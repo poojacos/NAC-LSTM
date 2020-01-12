@@ -1,5 +1,5 @@
 # NAC-LSTM
-## Fast Neural Accumulator (NAC) based BadmintonVideo Action Classification
+## Fast Neural Accumulator (NAC) based Badminton Video Action Classification
 
 In  the  last  decade,  as  the  available  sports  multimedia  has grown,  the  technology  for  analysis  of  content-based  sportsvideo has followed. Thereafter, due to high commercial potential and wide viewership, it has become paramount to develop apotent representation of sports video content.
 Current methods of extracting spatio-temporal features work very well however they run at the cost of high computational  requirement  which  affects  its  real time  application and deployment in broadcasted events especially in games with rapid motions such as badminton. In this work we aim to address the this issue. 
